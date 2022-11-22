@@ -4,7 +4,7 @@
 
 ##Introduction
 
-    We Made Technologies is a "Web Application Development and Other 
+We Made Technologies is a "Web Application Development and Other 
 Technologies Related Company". Our company name stands that "We" represents
 "we all together" and "Made" represents "making a change in our life".
   
